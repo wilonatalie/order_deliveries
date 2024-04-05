@@ -1,0 +1,2 @@
+Dataset: https://www.kaggle.com/datasets/prachi13/customer-analytics
+Deployment: https://huggingface.co/spaces/wilonatalie/p1-ftds028-rmt-m2
